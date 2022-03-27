@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4b878c5f-68bd-c7e8-4d95-c91ba13ce7fd
 resourcetype: Document
 title: 'Head Over "Feels" in Love: The Emerging Synthesis of "Love as Feeling" and
   "Love as Intention"'
