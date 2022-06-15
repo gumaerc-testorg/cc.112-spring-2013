@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides instructions for the writing assignments required
+  for the course, potential topics, and examples of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -15,7 +17,7 @@ You can use any of these topics, reformulate them, or formulate your own. If you
 
 Your name should not appear anywhere on your paper (only your ID #). Papers are graded blind.
 
-Please look at the document "[Writing a Paper for Me" (PDF)]({{< baseurl >}}/resources/mitcc_112s13_writingapaper) for more guidelines.
+Please look at the document "{{% resource_link 18e9a03a-5cf2-f562-533d-85f128dd0562 "Writing a Paper for Me\" (PDF)" %}} for more guidelines.
 
 Student examples appear courtesy of an MIT student, and are used by permission.
 
@@ -28,7 +30,7 @@ Paper 1 Topics
 4.  Can a convincing synthesis of "love as feeling" and "love as action/intention" be constructed? I'm looking for a true organic (or at least mechanical) relationship between the two, not paper-clipping them to each other and calling it love.
 5.  Formulate the argument that Lee and George on one side, and Lawrence on the other would have.
 
-Student example: [Head over "Feels" in Love: The Emerging Synthesis of "Love as Feeling" and "Love as Intention." (PDF)]({{< baseurl >}}/resources/mitcc_112s13_paper1)
+Student example: {{% resource_link 8b1aead3-c772-a291-237d-2bee6b30b067 "Head over \"Feels\" in Love: The Emerging Synthesis of \"Love as Feeling\" and \"Love as Intention.\" (PDF)" %}}
 
 Paper 2 Topics
 --------------
@@ -39,4 +41,4 @@ Paper 2 Topics
 4.  Do a careful textual exegesis of _I and Thou._
 5.  What is the relationship between love and beauty? Draw on Plato, Rumi, The Piano, and any other texts we have read.
 
-Student example: [Adios to Eros, Away with Agape: Philia as the Highest Form of Love. (PDF)]({{< baseurl >}}/resources/mitcc_112s13_paper2)
+Student example: {{% resource_link 0afdbe7a-9d0f-5640-53a9-b34a3cbe1a55 "Adios to Eros, Away with Agape: Philia as the Highest Form of Love. (PDF)" %}}
