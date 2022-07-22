@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the required readings and video materials for the
+  course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: da026c44-9663-2495-3b20-5d28ea0fe05c
 ---
@@ -194,7 +199,7 @@ Buber, Martin. "First Part." In _I and Thou_. Translated by Walter Kaufmann. Tou
 
 ———. "Second Part." In _I and Thou_. Translated by Walter Kaufmann. Touchstone, 1971. ISBN: 9780684717258.
 
-Nicol, Caitrin. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Till Malfunction Do Us Part." (PDF)](http://www.thenewatlantis.com/docLib/20080324_TNA19SOTARobotIntimacy.pdf) _The New Atlantis_ 19 (2008): 125–31.
+Nicol, Caitrin. "[Till Malfunction Do Us Part." (PDF)](http://www.thenewatlantis.com/docLib/20080324_TNA19SOTARobotIntimacy.pdf) _The New Atlantis_ 19 (2008): 125–31.
 
 Hegel, G. W. F. Selections on mutual recognition in _Phenomenology of Spirit_. Translated by A.V. Miller with analysis of the text and foreward by J.N. Findlay. Oxford University Press, 1976. ISBN: 9780198245971.
 

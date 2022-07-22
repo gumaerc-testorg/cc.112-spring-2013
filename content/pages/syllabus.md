@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course overview and information on
+  the Concourse program at MIT, meeting times, prerequisites, and grading policy.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: cf213a44-1e6d-6536-c93b-651e80048754
 ---
