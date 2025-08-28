@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guidelines for writing a paper for the course.
-file: /courses/cc-112-philosophy-of-love-spring-2013/18e9a03a5cf2f562533d85f128dd0562_MITCC_112S13_WritingAPaper.pdf
+file: /ol-ocw-studio-app/courses/cc-112-philosophy-of-love-spring-2013/18e9a03a5cf2f562533d85f128dd0562_MITCC_112S13_WritingAPaper.pdf
 file_size: 131658
 file_type: application/pdf
 learning_resource_types:
