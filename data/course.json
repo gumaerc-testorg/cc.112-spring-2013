@@ -35,7 +35,7 @@
   "course_title": "Philosophy of Love",
   "hide_download": false,
   "mit_learn_topics": [],
-  "course_description": "This course explores the nature of love through works of philosophy, literature, film, poetry, and individual experience. It investigates the distinction among eros, philia, and agape. Students discuss ideas of love as a feeling, an action, a species of 'knowing someone,' or a way to give or take. Authors studied include Plato, Kant, Buber, D. H. Lawrence, Rumi, and Aristotle.\n\nThis course is part of the [Concourse](https://concourse.mit.edu/) program at MIT.",
+  "course_description": "This course explores the nature of love through works of philosophy, literature, film, poetry, and individual experience. It investigates the distinction among eros, philia, and agape. Students discuss ideas of love as a feeling, an action, a species of 'knowing someone,' or a way to give or take. Authors studied include Plato, Kant, Buber, D. H. Lawrence, Rumi, and Aristotle.\n\nThis course is part of the {{% resource_link \"18a370d1-4433-47aa-945f-ce196726e1c2\" \"Concourse\" %}} program at MIT.",
   "department_numbers": [
     "CC"
   ],
